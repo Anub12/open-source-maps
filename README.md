@@ -11,5 +11,4 @@ make it compatible with all the devices
 5. buildings status -> schdules
 
 6. graphics for buildings
-
-
+7. Address
